@@ -1,0 +1,9 @@
+hello
+hi
+tata
+BYE!!
+Sayonara
+GoodBye!
+hihihi
+after GIT
+gui test
